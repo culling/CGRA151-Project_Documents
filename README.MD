@@ -22,13 +22,17 @@ The source files are unable to be published to the public to help ensure academi
 Recreate a number of images provided in a reference worksheet.
 
 A set of static image items
+
 ![Screenshot from image](docs/assignment1-screenshot-01.png)
 
 Random images based on squares and triangles
+
 ![Screenshot from image](docs/assignment1-screenshot-02.png)
+
 ![Screenshot from image](docs/assignment1-screenshot-03.png)
 
 A circle that is centred on the mouse and changes color when clicked
+
 ![Screenshot from image](docs/assignment1-screenshot-04.png)
 
 #### Part 2
