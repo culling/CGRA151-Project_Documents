@@ -10,7 +10,7 @@ Students who pass this course should be able to:
 
 
 ### Note
-This document covers projects and assignments made while studying COMP103 - Datastructures and Algorithms.
+This document covers projects and assignments made while studying CGRA151 - Introduction to Computer Graphics.
 
 The source files are unable to be published to the public to help ensure academic integrity and due to copyright concerns involved with the assignment scaffolding.
 
