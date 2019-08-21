@@ -38,7 +38,13 @@ A circle that is centred on the mouse and changes color when clicked
 #### Part 2
 The second part was to create a pleasing animated sequence or interactive piece of "art". 
 
-I created a ball that bounces when the user clicks, additionall, when the ball makes a full "lap" it increases it's speed and shifts colors to be more red.
+A ball was created that bounces when the user clicks, additionally, when the ball makes a full "lap" it increases it's speed and shifts colors to be more red.
 
 ![Screenshot from image](docs/assignment1-screenshot-05.png)
 
+
+## Final Project - Work in Progress
+![Screenshot from Dwarf game](docs/dwarf-screenshot-01.png)
+### Purpose
+This final project is to show a program using many of the techniques taught to produce a final product.
+The project will be a sidescrolling game, with procedurally generated background (rocks and trees).
